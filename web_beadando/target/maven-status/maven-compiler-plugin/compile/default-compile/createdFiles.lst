@@ -1,0 +1,7 @@
+com\jsfspring\curddemo\entity\Guest.class
+com\jsfspring\curddemo\service\GuestService.class
+com\jsfspring\curddemo\mbean\GuestController.class
+com\jsfspring\curddemo\SpringJsfApplication.class
+com\jsfspring\curddemo\service\impl\GuestServiceImpl.class
+com\jsfspring\curddemo\logging\loggingAspect.class
+com\jsfspring\curddemo\repositry\GuestRepo.class
